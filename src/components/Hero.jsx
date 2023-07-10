@@ -25,8 +25,6 @@ const Hero = () => (
             typeSpeed={150}
             backSpeed={100}
             loop/>
-              
-            
           </span>
           
           {/* <span className='text-[#915eff]'> Avijeet Jain</span> */}

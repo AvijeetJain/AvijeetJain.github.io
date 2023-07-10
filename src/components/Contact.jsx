@@ -65,7 +65,7 @@ const Contact = () => {
     <div className="xl:mt-8 xl:flex-row flex-col-reverse flex gap-10 overflow-hidden">
       <motion.div 
       variants = {slideIn('left', 'tween', 0.2, 1)}
-      className="flex-[0.75] bg-black-100 p-8 rounded-2xl">
+      className="flex-[0.75] bg-[#091e21] p-8 rounded-2xl">
         <p className={styles.sectionSubText}>Get in Touch</p>
 
         <h3 className={styles.sectionHeadText}>Contact</h3>
@@ -132,6 +132,17 @@ const Contact = () => {
         <EarthCanvas />
       </motion.div>
     </div>
+
+    <motion.div variants = {slideIn('bottom', 'tween', 0.7, 1)}>
+      <div className="pt-10 text-center">
+      <p className="text-[20px] text-secondary tracking-wider text-white">
+        Made with 
+        <span className="animate-pulse"> ❤️</span>
+        <br />
+        ~ Avijeet Jain
+      </p>
+      </div>
+    </motion.div>
 
     <motion.div variants = {slideIn('right', 'tween', 0.7, 1)}>
       <div className="flex flex-row flex-wrap justify-end gap-10 mt-10">

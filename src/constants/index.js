@@ -20,9 +20,7 @@ import {
     illustrator,
     filmora,
     aasf,
-    carrent,
-    jobit,
-    tripguide,
+    
     threejs,
     passman,
     storyteller,

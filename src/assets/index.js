@@ -1,4 +1,5 @@
 import logo from "./logo.svg";
+import logo1 from './logo.png';
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -26,17 +27,41 @@ import illustrator from "./tech/illustrator.png";
 import filmora from "./tech/filmora.png";
 
 import aasf from "./company/aasf.png";
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
 import passman from "./passman.png";
 import storyteller from "./storyteller.png";
 
 import insta from "./instagram.png";
 import linkedin from "./linkedin.png";
 
+
+import background from './hogwarts/bg.png';
+import bg from './hogwarts/bg2.png'
+import back_shadow from './hogwarts/black_shadow.png';
+import fog_1 from './hogwarts/fog_1.png';
+import fog_2 from './hogwarts/fog_2.png';
+import fog_3 from './hogwarts/fog_3.png';
+import fog_4 from './hogwarts/fog_4.png';
+import fog_5 from './hogwarts/fog_5.png';
+import fog_6 from './hogwarts/fog_6.png';
+import fog_7 from './hogwarts/fog_7.png';
+import sun_rays from './hogwarts/sun_rays.png';
+import bottom_left_house from './hogwarts/bottom_left_house.png';
+import bottom_right_cave from './hogwarts/bottom_right_cave.png';
+import bottom_right_tree1 from './hogwarts/bottom_right_tree1.png';
+import bottom_right_tree2 from './hogwarts/bottom_right_tree2.png';
+import dragon from './hogwarts/dargon.png';
+import hogwarts from './hogwarts/hogwarts.png';
+import owl from './hogwarts/owl.png';
+import wizard from './hogwarts/wizard.png';
+import goat_bottom_left from './hogwarts/goat_bottom_left.png'
+
+import preloader from './preloader.mp4';
+
+export default preloader;
+
 export {
   logo,
+  logo1,
   backend,
   creator,
   mobile,
@@ -62,11 +87,30 @@ export {
   illustrator,
   filmora,
   aasf,
-  carrent,
-  jobit,
-  tripguide,
+  
   passman,
   storyteller,
   insta,
   linkedin,
+  
+  bg,
+  background,
+  back_shadow,
+  fog_1,
+  fog_2,
+  fog_3,
+  fog_4,
+  fog_5,
+  fog_6,
+  fog_7,
+  sun_rays,
+  bottom_left_house,
+  bottom_right_cave,
+  bottom_right_tree1,
+  bottom_right_tree2,
+  goat_bottom_left,
+  wizard,
+  owl,
+  dragon,
+  hogwarts,
 };
