@@ -1,0 +1,11 @@
+Model Information:
+* title:	The Book Of The Ghost Cat
+* source:	https://sketchfab.com/3d-models/the-book-of-the-ghost-cat-c554e2842fc74d318191e3d11670fbc8
+* author:	Chaitanya Krishnan (https://sketchfab.com/chaitanyak)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "The Book Of The Ghost Cat" (https://sketchfab.com/3d-models/the-book-of-the-ghost-cat-c554e2842fc74d318191e3d11670fbc8) by Chaitanya Krishnan (https://sketchfab.com/chaitanyak) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
